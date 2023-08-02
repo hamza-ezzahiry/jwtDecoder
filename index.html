@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>JWT Token Decoder</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>JWT Token Decoder</h1>
+    <textarea id="jwtTokenInput" placeholder="Paste your JWT token here..."></textarea>
+    <button onclick="decodeToken()">Decode Token</button>
+
+    <div class="result">
+      <h2>Header</h2>
+      <pre id="headerResult"></pre>
+
+      <h2>PAYLOAD</h2>
+      <pre id="payloadResult"></pre>
+
+      <h2>VERIFY SIGNATURE</h2>
+      <pre id="signatureResult"></pre>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

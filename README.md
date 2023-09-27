@@ -39,6 +39,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Made with ❤️ by Hamza Ezzahiry.
+Made with ❤️ by SpiderX.
 
 © 2023 Hamza Ezzahiry. All rights reserved.
